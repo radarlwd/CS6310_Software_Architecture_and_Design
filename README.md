@@ -7,4 +7,5 @@
 - [Gatech Github](https://github.gatech.edu/)
 - [Ed](https://edstem.org/us/courses/22421/discussion/)
 - [Gatech library](https://www.library.gatech.edu/)
+- [Video resources](https://gatech.instructure.com/courses/255528/external_tools/116)
 - [Course Notes](https://github.com/vsamov/omscs/blob/master/docs/cs6310-software-architecture-%26-design.md)
