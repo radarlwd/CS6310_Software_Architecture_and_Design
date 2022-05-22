@@ -12,3 +12,6 @@
 
 # Textbooks
 - [Applying UML and Pattersn (Craig Larman)](https://learning.oreilly.com/library/view/applying-uml-and/0131489062/)
+
+# Java
+- [Udacity - Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
