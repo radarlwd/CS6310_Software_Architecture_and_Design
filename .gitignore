@@ -1,7 +1,6 @@
 # Ignore homework solution related files
 Tricky_questions.md
-/Homework/*
-/Projects/*
+/0_Assignments/*
 
 *DS_Store
 ~$*
