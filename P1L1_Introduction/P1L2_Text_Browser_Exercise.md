@@ -32,7 +32,7 @@ In a UML analysis model, you should be concerned with three types of relationshi
 
 ![LinesVisible Association](LinesVisibleAssociation.png)
 ![Displays Diagram](DisplayDigram.png)
-![Handle Proportion](HandleProportion)
+![Handle Proportion](HandleProportion.png)
 
 ### Analysis model
 - UML class-model diagram
