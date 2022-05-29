@@ -1,6 +1,6 @@
-## Text Browser Exercise
+# Text Browser Exercise
 
-### GUI components
+## GUI components
 - Window (ViewPort)
 	- Need to be able to display the textual content graphically
 	- Display integer number of lines
@@ -16,13 +16,13 @@
 	- TextBrowser interacts with the file system through the operating system
 	- Document is a percept that is supplied by the operating system actor
 
-### Terminology
+## Terminology
 - Use cases: how the user will use the intended solution
 - Operations: actions that the user can undertake to interact with the textbrowser
 - Percepts: parts of the application which user can sees
 	- E.g. viewport (height, content), scrollbar (position, size)
 
-### Relationships
+## Relationships
 In a UML analysis model, you should be concerned with three types of relationships:
 - Associations
 - Aggregation
@@ -30,11 +30,11 @@ In a UML analysis model, you should be concerned with three types of relationshi
 
 *Ternary association: association among three components*
 
-![LinesVisible Association](LinesVisibleAssociation.png)
-![Displays Diagram](DisplayDigram.png)
-![Handle Proportion](HandleProportion.png)
+![LinesVisible Association](imgs/LinesVisibleAssociation.png)
+![Displays Diagram](imgs/DisplayDigram.png)
+![Handle Proportion](imgs/HandleProportion.png)
 
-### Analysis model
+## Analysis model
 - UML class-model diagram
 - Rectangles for classes
 - Each rectangle is divided vertically
