@@ -71,6 +71,7 @@
 	- Relationship issues
 		- All of the classes are really a part of an overarching TreeCountingSystem class (not normally displayed in those diagrams)
 		- The textual description was not truly characteristic of typical requirements documents
+		- In general, it is important to distinguish the **analysis** and **design** phases of a software development effort in order to avoid prematurely bias the approach taken towards solution.
 
 - ![Counting leaves (rough diagram)](imgs/Counting_leaves_rough_diagram.png)
 
