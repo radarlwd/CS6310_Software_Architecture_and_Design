@@ -13,5 +13,9 @@
 # Textbooks
 - [Applying UML and Pattersn (Craig Larman)](https://learning.oreilly.com/library/view/applying-uml-and/0131489062/)
 
+# UML
+- [UML Class Diagram Tutorial (Youtube)](https://www.youtube.com/watch?v=UI6lqHOVHic)
+- [UML Class and Object Diagrams Overview](https://www.uml-diagrams.org/class-diagrams-overview.html)
+
 # Java
 - [Udacity - Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
