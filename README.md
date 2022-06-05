@@ -16,6 +16,8 @@
 # UML
 - [UML Class Diagram Tutorial (Youtube)](https://www.youtube.com/watch?v=UI6lqHOVHic)
 - [UML Class and Object Diagrams Overview](https://www.uml-diagrams.org/class-diagrams-overview.html)
+- [UML diagrams - Kirill Fakhroutdinov (Chinese)](http://lib.uml.com.cn/ebook/UML2.5/UML.asp)
+- [UML diagrams - Kirill Fakhroutdinov (English)](https://www.uml-diagrams.org/)]
 
 # Java
 - [Udacity - Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
