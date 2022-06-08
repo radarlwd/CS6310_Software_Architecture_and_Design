@@ -88,11 +88,11 @@ Break the specification into three pieces:
 			```
 - OCL
 	- context Vector:: ORDERED () : Boolean
-		Note that the method has no argument! As with all OCL like UML, the object to which a message is sent serves as an implied argument
+		- Note that the method has no argument! As with all OCL like UML, the object to which a message is sent serves as an implied argument
 	- pre: true
-		If the precondition is true, you don't need to specify it - Leave this constraint out of the specification
+		- If the precondition is true, you don't need to specify it - Leave this constraint out of the specification
 	- post: self->forAll(i : Interger | i >0 and i < self.length implies self.at[i] <= self.at[i+1])
-		Notes:
+		- Notes:
 			- Use the vertical bar "|" to separate the designation of the variable i from the proposition
 			- The limitations on the value of i appear as part of the proposition
 			- The limitations on the value of i are separated from the proposition itself by the use of the implies OCL keyword
