@@ -66,14 +66,14 @@ Break the specification into three pieces:
 			- Signature: BOOL Z = PERMUTATION(Vector <int> X, Vector<int> Y)
 			- Precondition: |X| = |Y| 
 			- Postcondition (break down into special cases):
-				1. both vectors are empty: True
-					2. If vectors do have elements:
-					2.1 First element in X and Y are identical -> whether or not the tails of X and Y are permutations (recursive definition: defining permutations in terms of themselves)
-					2.2 First element in X and Y are not identical
+				- 1. both vectors are empty: True
+				- 2. If vectors do have elements:
+					- 2.1 First element in X and Y are identical -> whether or not the tails of X and Y are permutations (recursive definition: defining permutations in terms of themselves)
+					- 2.2 First element in X and Y are not identical
 						Divide Y up into three pieces, depending on where in the Vector Y the first element of X occurs (position j, where j >= 1 and no larger than |Y|)
-							- First piece of Y: all elements from first up to but not including jth
-							- Second piece of Y: just the jth element
-							- Third piece: all of the remaining elements of Y
+						- First piece of Y: all elements from first up to but not including jth
+						- Second piece of Y: just the jth element
+						- Third piece: all of the remaining elements of Y
 							︵: concatenation operation on Vectors
 			```
 			PERMUTATION(X,Y) <=>
