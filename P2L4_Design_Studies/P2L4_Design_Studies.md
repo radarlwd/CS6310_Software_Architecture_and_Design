@@ -23,34 +23,34 @@
 	- Evaluate your solutions in a systematic way
 - Overall goal of design study: repeatability
 - Report:
-	- 1. Context (background, motivation, vocabulary):
+	1. Context (background, motivation, vocabulary):
 		- Background and motivation for the study
 		- Define any specialized vocabulary necessary
-	- 2. Research questions:
+	2. Research questions:
 		- Examines the tradeoffs between various non-functional requirements
 		- Each should be formulated in a neutral fashion
 		- Each should be numbered for later reference
-	- 3. Subject: 
+	3. Subject: 
 		-  design study compres multiple subjects
 		- Each subject should be briefly described
-	- 4. Experimental conditions: 
+	4. Experimental conditions: 
 		- A software design study normally means running several versions of a program, making measurement and evaluating the results
 		- Describes the environment in which the study will take place
-	- 5. Variables: 
+	5. Variables: 
 		- Must be identified and appropriate metrics specified
 		- Describes both independent and dependent variables, the units of measure and how the research questions address them
 		- Include a summary table with three columns
-	- 6. Method:
+	6. Method:
 		- Includes the number of trials, measurement devices and tools, randomization technique, significant digits, etc.
 		- Include an explicit statement of which subjects will be run and the arguments used
 		- Briefly describe any statistical techniques you will use
-	- 7. Results:
+	7. Results:
 		- The point of conducting a design study is to produce data
 		- Presents the data collected and their statistical analysis
-	- 8. Disscussion:
+	8. Disscussion:
 		- Opportunity to interpret the data you collected and provide a discussion of its implications
 		- Allows you to reflect on the experimentation itself
-	- 9. Concludion
+	9. Concludion
 		- Summarize your results and draw conclustions
 		- You should provide explicit answers to the research questions to the research questions you raised in the second section
 - Project deliverables
