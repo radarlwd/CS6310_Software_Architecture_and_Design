@@ -2,7 +2,7 @@
 *Also called Static Stucture Diagrams*
 
 ## Classes
-![Example UML class](imgs/Example_UML_Class.md)
+![Example UML class](imgs/Example_UML_Class.png)
 *Class names start with capital letter*
 - Contains representations for:
 	- Classes
