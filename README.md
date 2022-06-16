@@ -20,5 +20,8 @@
 - [UML diagrams - Kirill Fakhroutdinov (Chinese)](http://lib.uml.com.cn/ebook/UML2.5/UML.asp)
 - [UML diagrams - Kirill Fakhroutdinov (English)](https://www.uml-diagrams.org/)
 
+# OCL
+- [The Object Constraint Language: Getting Your Models Ready for MDA](https://flylib.com/books/en/3.454.1/)
+
 # Java
 - [Udacity - Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282)
