@@ -2,6 +2,10 @@
 > SU2022 | Yolanda's notes <br>
 > May 16, 2022 - Aug 04, 2022
 
+```
+fake codes
+```
+
 # Resources
 - [Canvas](https://gatech.instructure.com/courses/255528)
 - [Gatech Github](https://github.gatech.edu/)
