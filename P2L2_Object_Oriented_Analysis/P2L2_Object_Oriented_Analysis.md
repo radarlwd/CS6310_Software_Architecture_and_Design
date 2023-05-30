@@ -17,7 +17,7 @@
 	- Nouns -> classes
 	- Actions -> operations
 	- Adjectives -> attributes
-	- Atative verbs -> relationships
+	- Stative verbs -> relationships
 - Steps:
 	1. **Candidate object classes** are indicated by the occurance of **nouns** in the natural language description of the system to be built
 	2. The **nouns** can then be organized into related groups termed **classes**
