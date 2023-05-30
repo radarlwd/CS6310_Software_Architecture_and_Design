@@ -4,7 +4,7 @@
 ## Diagrams
 - Object management Techinique (OMT)
 	- Developed by James Rumbaugh and others at GE
-	- Comhesive view of system:
+	- Comprehesive view of system:
 		- Structural aspect: Class model diagram
 		- Behavior aspect: Statechart diagram
 		- Functional aspect: Dataflow diagram
